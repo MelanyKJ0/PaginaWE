@@ -1,0 +1,21 @@
+.navbar .nav-item .nav-link
+{
+    color: white;
+}
+.main-header{
+    /*background:url(../img/fondo.jpg);*/
+    background:url(../img/hpp.jpg);
+    min-height: 500px;
+    /*Definir la imagen como única*/
+    background-size: cover;
+    right: 50px;
+}
+
+.backgroup-overlay{
+    background-color:rgba(48, 51, 107,.7);
+    width: 100%;
+    height: 100%;
+}
+.team{
+    background-color:rgba(71, 71, 135,1.0);
+}
